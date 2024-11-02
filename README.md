@@ -20,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hansun-hub/Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/hansun-hub/Algorithm/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
